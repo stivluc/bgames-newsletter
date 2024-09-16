@@ -1,1 +1,1 @@
-Temporary website to subscribe to newsletter before launching
+Landing page for a company, inviting you to subscribe to their newsletter.
